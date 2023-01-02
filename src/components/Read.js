@@ -56,6 +56,7 @@ function Read() {
                         <th scope="col">Email</th>
                         <th scope="col">Edit</th>
                         <th scope="col">Delete</th>
+                        <th scope="col">Add</th>
                     </tr>
                 </thead>
                 {
